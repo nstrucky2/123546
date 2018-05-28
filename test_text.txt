@@ -1,3 +1,5 @@
 This is just a test
 
 change made as another author
+
+Testing if I make one change, commit as author nstrucky2, then push
